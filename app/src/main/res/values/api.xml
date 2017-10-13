@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+       AIzaSyDcEr_Sp0yMOOijcNgq1W0QcqDcRAvZw9c
+    </string>
+    <string name="foursquare_client_id" templateMergeStrategy="preserve" translatable="false">
+        142CXDEYUPVOBKJ3R2RUMLE4E2E4LA3JWQ4NFIW2DKGH154W
+    </string>
+    <string name="foursquare_client_secret" templateMergeStrategy="preserve" translatable="false">
+        VQ0LI3ZG5ZU04AO2DE51WJURKQGZO1TSSX13XEZOWCVUOW4J
+    </string>
+</resources>
